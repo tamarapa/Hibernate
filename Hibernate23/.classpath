@@ -27,5 +27,6 @@
 	<classpathentry kind="lib" path="C:/Users/alumno/Downloads/hibernate-release-4.3.10.Final/hibernate-release-4.3.10.Final/lib/required/jboss-logging-annotations-1.2.0.Beta1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/alumno/Downloads/hibernate-release-4.3.10.Final/hibernate-release-4.3.10.Final/lib/required/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
 	<classpathentry kind="lib" path="C:/Users/alumno/Downloads/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/Downloads/log4j-all-1.3alpha-8.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
